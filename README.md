@@ -74,7 +74,7 @@ The system is divided into three main classes:
 ### Compile
 
 ```bash
-g++ main.cpp -o inventory
+g++ Sale System.cpp -o inventory
 ```
 
 ### Run
